@@ -8,7 +8,7 @@ I am a software developer with a lifelong passion for learning and putting my kn
 
 * 🌍  I'm based in Edmonds, Wa, U.S.
 * ✉️  You can contact me at [ewhs4jamesh@hotmail.com](mailto:ewhs4jamesh@hotmail.com)
-* 🚀  I'm currently working on [adding more features and interactivity to my Line-Up 4 game.](http://https://jhubbell89.github.io/Project1/)
+* 🚀  I'm currently working on [adding more features and interactivity to my Line-Up 4 game.](https://jhubbell89.github.io/Project1/)
 * 🧠  I'm learning how to master the coding interview.
 * 🤝  I'm open to collaborating on projects that will help me grow and make me learn.
 * ⚡  I love playing hockey. I'm a goalie.
