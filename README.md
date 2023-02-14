@@ -9,7 +9,7 @@ I am a software developer with a lifelong passion for learning and putting my kn
 * 🌍  I'm based in Edmonds, Wa, U.S.
 * 🖥️  See my portfolio at [here](https://jameshubbellportfolio.uhwhatjameshubb.repl.co/)
 * ✉️  You can contact me at [ewhs4jamesh@hotmail.com](mailto:ewhs4jamesh@hotmail.com)
-* 🚀  I'm currently working on [building my portfolio]
+* 🚀  I'm currently working on building my portfolio
 * 🧠  I'm learning how to master the coding interview.
 * 🤝  I'm open to collaborating on projects that will help me grow and make me learn.
 * ⚡  I love playing hockey. I'm a goalie.
